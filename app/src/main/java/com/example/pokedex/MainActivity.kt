@@ -56,7 +56,8 @@ class MainActivity : AppCompatActivity() {
                 val pokeObject = pokedexArray.getJSONObject(i)
                 val number = pokeObject.getString("number")
                 val name = pokeObject.getString("name")
-                val pokeData = PokeData(number, name)
+                val url = pokeObject.getString("url")
+                val pokeData = PokeData(number, name, url)
                 pokeDataArray.add(pokeData)
             }
         } catch (e: JSONException) {

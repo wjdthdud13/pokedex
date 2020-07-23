@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import kotlinx.android.synthetic.main.main_item_view.view.*
 
 
 class MainAdapter(private val myDataset: ArrayList<PokeData>, private val width: Int) :
@@ -31,9 +32,10 @@ class MainAdapter(private val myDataset: ArrayList<PokeData>, private val width:
 
         val imageView = holder.view.findViewById<ImageView>(R.id.image_view)
         imageView.layoutParams = ConstraintLayout.LayoutParams(this.width, this.width)
+        val url = myDataset[position].url
 
         Glide.with(holder.view.context)
-            .load("https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png").into(imageView)
+            .load(url).into(imageView)
     }
 
     override fun getItemCount() = myDataset.size

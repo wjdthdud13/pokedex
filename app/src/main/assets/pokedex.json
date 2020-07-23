@@ -2,11 +2,506 @@
   "pokedex": [
     {
       "number": "001",
-      "name": "フシギダネ"
+      "name": "フシギダネ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
     },
     {
       "number": "002",
-      "name": "フシギソウ"
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+      "number": "003",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+      "number": "004",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+      "number": "005",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+    },
+    {
+      "number": "006",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+      "number": "007",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+      "number": "008",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+    },
+    {
+      "number": "009",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+    },
+    {
+      "number": "010",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
+    },
+    {
+      "number": "011",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
+    },
+    {
+      "number": "012",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png"
+    },
+    {
+      "number": "013",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png"
+    },
+    {
+      "number": "014",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png"
+    },
+    {
+      "number": "015",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png"
+    },
+    {
+      "number": "016",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png"
+    },
+    {
+      "number": "017",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png"
+    },
+    {
+      "number": "018",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
+    },
+    {
+      "number": "019",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png"
+    },
+    {
+      "number": "020",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png"
+    },
+    {
+      "number": "021",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png"
+    },
+    {
+      "number": "022",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png"
+    },
+    {
+      "number": "023",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png"
+    },
+    {
+      "number": "024",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png"
+    },
+    {
+      "number": "025",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    },
+    {
+      "number": "026",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+    },
+    {
+      "number": "027",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png"
+    },
+    {
+      "number": "028",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png"
+    },
+    {
+      "number": "029",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png"
+    },
+    {
+      "number": "030",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png"
+    },
+    {
+      "number": "031",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png"
+    },
+    {
+      "number": "032",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png"
+    },
+    {
+      "number": "033",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png"
+    },
+    {
+      "number": "034",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
+    },
+    {
+      "number": "035",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png"
+    },
+    {
+      "number": "036",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png"
+    },
+    {
+      "number": "037",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png"
+    },
+    {
+      "number": "038",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png"
+    },
+    {
+      "number": "039",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
+    },
+    {
+      "number": "040",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png"
+    },
+    {
+      "number": "041",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png"
+    },
+    {
+      "number": "042",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png"
+    },
+    {
+      "number": "043",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png"
+    },
+    {
+      "number": "044",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png"
+    },
+    {
+      "number": "045",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png"
+    },
+    {
+      "number": "046",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png"
+    },
+    {
+      "number": "047",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png"
+    },
+    {
+      "number": "048",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png"
+    },
+    {
+      "number": "049",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png"
+    },
+    {
+      "number": "050",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png"
+    },
+    {
+      "number": "051",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png"
+    },
+    {
+      "number": "052",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
+    },
+    {
+      "number": "053",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png"
+    },
+    {
+      "number": "054",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+    },
+    {
+      "number": "055",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png"
+    },
+    {
+      "number": "056",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png"
+    },
+    {
+      "number": "057",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png"
+    },
+    {
+      "number": "058",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png"
+    },
+    {
+      "number": "059",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
+    },
+    {
+      "number": "060",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png"
+    },
+    {
+      "number": "061",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png"
+    },
+    {
+      "number": "062",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png"
+    },
+    {
+      "number": "063",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png"
+    },
+    {
+      "number": "064",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png"
+    },
+    {
+      "number": "065",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png"
+    },
+    {
+      "number": "066",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png"
+    },
+    {
+      "number": "067",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png"
+    },
+    {
+      "number": "068",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png"
+    },
+    {
+      "number": "069",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png"
+    },
+    {
+      "number": "070",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png"
+    },
+    {
+      "number": "071",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png"
+    },
+    {
+      "number": "072",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png"
+    },
+    {
+      "number": "073",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png"
+    },
+    {
+      "number": "074",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
+    },
+    {
+      "number": "075",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png"
+    },
+    {
+      "number": "076",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png"
+    },
+    {
+      "number": "077",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png"
+    },
+    {
+      "number": "078",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png"
+    },
+    {
+      "number": "079",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png"
+    },
+    {
+      "number": "080",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png"
+    },
+    {
+      "number": "081",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png"
+    },
+    {
+      "number": "082",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png"
+    },
+    {
+      "number": "083",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png"
+    },
+    {
+      "number": "084",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png"
+    },
+    {
+      "number": "085",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png"
+    },
+    {
+      "number": "086",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png"
+    },
+    {
+      "number": "087",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png"
+    },
+    {
+      "number": "088",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png"
+    },
+    {
+      "number": "089",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png"
+    },{
+      "number": "090",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png"
+    },
+    {
+      "number": "091",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png"
+    },
+    {
+      "number": "092",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png"
+    },
+    {
+      "number": "093",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png"
+    },
+    {
+      "number": "094",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png"
+    },
+    {
+      "number": "095",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png"
+    },{
+      "number": "096",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png"
+    },
+    {
+      "number": "097",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png"
+    },
+    {
+      "number": "098",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png"
+    },
+    {
+      "number": "099",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png"
+    },
+    {
+      "number": "002",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+      "number": "002",
+      "name": "フシギソウ",
+      "url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
     }
   ]
 }
